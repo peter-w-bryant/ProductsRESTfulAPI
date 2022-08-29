@@ -1,7 +1,7 @@
 # ProductsRESTfulAPI
-UNDER MAINTENANCE
+Simple products API using Python, Flask, SQLite, SQL Alchemy and Marshmallow!
 
-```
+```Python
 # Activate venv (Windows)
 $ env/Scripts/activate
 
@@ -16,7 +16,6 @@ $ python
 
 # Run server
 python app.py
-
 ```
 
 <h2> Endpoints </h2>
