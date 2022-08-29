@@ -1,6 +1,12 @@
 # ProductsRESTfulAPI
 UNDER MAINTENANCE
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 <h2> Endpoints </h2>
 <ul> 
 <li>GET /product</li>
