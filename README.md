@@ -2,9 +2,21 @@
 UNDER MAINTENANCE
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+# Activate venv (Windows)
+$ env/Scripts/activate
+
+# Install all Dependencies
+$ pip install -r requirements.txt
+
+# Create SQLite DB
+$ python
+>> from app import db
+>> db.create_all()
+>> exit()
+
+# Run server
+python app.py
+
 ```
 
 <h2> Endpoints </h2>
